@@ -1,0 +1,75 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">ts-portfolio</custom-type>
+    <custom-type translate="1">ts-team-member</custom-type>
+    <custom-type translate="1">ts-testimonial</custom-type>
+    <custom-type translate="1">ts-client</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">ts-portfolio-category</taxonomy>
+    <taxonomy translate="1">ts-team-group</taxonomy>
+    <taxonomy translate="1">ts-testimonial-group</taxonomy>
+    <taxonomy translate="1">ts-client-group</taxonomy>
+  </taxonomies>
+  <admin-texts>
+    <key name="optico_theme_options">
+      <key name="logotext"/>
+      <key name="logoimg">
+        <key name="id"/>
+        <key name="thumb-url"/>
+        <key name="full-url"/>
+      </key>
+      <key name="logoimg_sticky">
+        <key name="id"/>
+        <key name="thumb-url"/>
+        <key name="full-url"/>
+      </key>
+      <key name="header_text"/>
+      <key name="infostack_left_text"/>
+      <key name="infostack_right_text"/>
+      <key name="infostack_phone_text"/>
+      <key name="topbar_left_text"/>
+      <key name="topbar_right_text"/>
+      <key name="search_input"/>
+      <key name="searchform_title"/>
+      <key name="adv_tbar_catarc"/>
+      <key name="adv_tbar_tagarc"/>
+      <key name="adv_tbar_postclassified"/>
+      <key name="adv_tbar_authorarc"/>
+      <key name="footer_cta_title"/>
+      <key name="footer_cta_subtitle"/>
+      <key name="footer_cta_button_text"/>
+      <key name="footer_copyright_left"/>
+      <key name="footer_copyright_right"/>
+      <key name="blog_readmore_text"/>
+      <key name="post_social_share_title"/>
+      <key name="portfolio_project_details"/>
+      <key name="portfolio_related_title"/>
+      <key name="pf_details_line">
+        <key name="*"/>
+      </key>
+      <key name="portfolio_social_share_title"/>
+      <key name="team_extra_details_lines">
+        <key name="*"/>
+      </key>
+      <key name="team_member_single_contact_text"/>
+      <key name="error404_big_text"/>
+      <key name="error404_medium_text"/>
+      <key name="searchnoresult"/>
+      <key name="uconstruction_title"/>
+      <key name="uconstruction_html"/>
+      <key name="pf_type_title"/>
+      <key name="pf_type_title_singular"/>
+      <key name="pf_type_slug"/>
+      <key name="pf_cat_title"/>
+      <key name="pf_cat_title_singular"/>
+      <key name="pf_cat_slug"/>
+      <key name="team_type_title"/>
+      <key name="team_type_title_singular"/>
+      <key name="team_type_slug"/>
+      <key name="team_group_title"/>
+      <key name="team_group_title_singular"/>
+      <key name="team_group_slug"/>
+    </key>
+  </admin-texts>
+</wpml-config>
